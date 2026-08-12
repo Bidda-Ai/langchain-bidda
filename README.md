@@ -16,7 +16,7 @@ pip install -U langchain-bidda
 
 ### `BiddaComplianceTool`
 
-Looks up source-verified compliance intelligence across the Bidda registry (10,000+ obligations across 39 regulated pillars, including the EU AI Act, GDPR, DORA, NIS2, HIPAA, Basel III, and the MITRE ATT&CK / ATLAS / D3FEND / CAPEC families). Uses the free discovery tier, so no API key is required.
+Looks up source-verified compliance intelligence across the Bidda registry (10,100+ obligations across 39 regulated pillars, including the EU AI Act, GDPR, DORA, NIS2, HIPAA, Basel III, and the MITRE ATT&CK / ATLAS / D3FEND / CAPEC families). Uses the free discovery tier, so no API key is required.
 
 ```python
 from langchain_bidda import BiddaComplianceTool
